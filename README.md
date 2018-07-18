@@ -1,2 +1,2 @@
-this is my first project about blockchain
+This is my first project about blockchain
 
